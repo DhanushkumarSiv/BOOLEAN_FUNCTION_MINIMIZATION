@@ -33,9 +33,15 @@ Boolean Algebra is a branch of algebra that deals with boolean values—true and
    
 ** Boolean Minimization :**
 
+F1
 
-  
-  	
+![f1 boolian mini](https://github.com/user-attachments/assets/281038e7-4ef1-4a70-9606-c3140725e9d7)
+
+
+F2
+
+![f2 boolien min](https://github.com/user-attachments/assets/8e069c7e-9dfc-462f-b24f-db5de84488e9)
+
 
 
 **Program:**
