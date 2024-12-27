@@ -42,6 +42,15 @@ F2
 
 ![f2 boolien min](https://github.com/user-attachments/assets/8e069c7e-9dfc-462f-b24f-db5de84488e9)
 
+** TRUTH TABLE **
+
+F1
+
+![f1 boolean](https://github.com/user-attachments/assets/610be2f2-ce77-4728-913e-667d7a1adc83)
+
+F2
+
+![f2 boolean](https://github.com/user-attachments/assets/137026fc-9993-4e14-b59e-49249c475278)
 
 
 **Program:**
